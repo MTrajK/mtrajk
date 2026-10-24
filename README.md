@@ -10,7 +10,7 @@ I'm a software engineer with 11+ years of experience across technologies and dom
 
 I love learning, exploring ideas, and sharing what I learn. These repositories bring together my presentations, practical demos, research, notes, and learning resources.
 
-### Explore the repositories
+### Explore the selected repositories
 
 - **[Coding Problems](https://github.com/MTrajK/coding-problems)** [![Stars](https://img.shields.io/github/stars/MTrajK/coding-problems?style=flat&color=2d6556)](https://github.com/MTrajK/coding-problems/stargazers) [![Forks](https://img.shields.io/github/forks/MTrajK/coding-problems?style=flat&color=2d6556)](https://github.com/MTrajK/coding-problems/forks) — Explained Python solutions and curated algorithms and data structures resources.
 - **[AI Coding Agents Evaluation](https://github.com/MTrajK/ai-coding-agents-evaluation)** — Research, prompts, generated applications, and evaluation notes comparing Windsurf and Codex.
