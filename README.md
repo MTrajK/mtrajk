@@ -8,7 +8,7 @@ I'm a software engineer with 11+ years of experience across technologies and dom
 
 ## Built to learn. Shared to help.
 
-I love learning, exploring ideas, and sharing what I learn. These repositories bring together my presentations, practical demos, research, notes, and learning resources.
+I love learning, exploring ideas, and building useful solutions that solves real problems. These repositories bring together my presentations, practical demos, research, notes, learning resources, and complete applications.
 
 ### Explore the selected repositories
 
@@ -44,5 +44,16 @@ I love learning, exploring ideas, and sharing what I learn. These repositories b
 <p><a href="https://github.com/MTrajK/engineering-notes/blob/main/Product-minded%20Engineer/Product-minded%20engineer.pdf">Slides ↗</a> · <a href="https://github.com/MTrajK/engineering-notes/tree/main/Product-minded%20Engineer">Notes &amp; materials ↗</a></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>SDD Workshop</h3>
+<p>A hands-on workshop on applying Spec-Driven Development with AI coding agents.</p>
+<p><p><a href="https://github.com/MTrajK/engineering-notes/blob/main/SDD%20Workshop/Resources/Trainers/Workshop%20Presentation%20-%20SDD%20with%20Windsurf%2BSpecKit.pptx">Slides ↗</a> · <a href="https://github.com/MTrajK/engineering-notes/tree/main/SDD%20Workshop">Materials ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>AI Coding Agents in the Era of Modern Software Engineering</h3>
+<p>A comparative study of AI coding agents, their workflows, and their performance on software engineering tasks.</p>
+<p><a href="https://github.com/MTrajK/ai-coding-agents-evaluation/tree/main/docs/presentation">Slides ↗</a> · <a href="https://github.com/MTrajK/ai-coding-agents-evaluation/tree/main/docs/research">Research ↗</a></p>
+</td>
+</tr>
 </table>
-
