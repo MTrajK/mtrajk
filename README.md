@@ -41,12 +41,12 @@ I love learning, exploring ideas, and building useful solutions that solves real
 <td width="50%" valign="top">
 <h3>The Product-Minded Engineer in the Age of AI-Driven Development</h3>
 <p>Understanding users, questioning assumptions, and guiding AI-assisted development toward useful product outcomes.</p>
-<p><a href="https://github.com/MTrajK/engineering-notes/blob/main/Product-minded%20Engineer/Product-minded%20engineer.pdf">Slides ↗</a> · <a href="https://github.com/MTrajK/engineering-notes/tree/main/Product-minded%20Engineer">Notes &amp; materials ↗</a></p>
+<p><a href="https://github.com/MTrajK/engineering-notes/blob/main/Product-minded%20Engineer/Product-minded%20engineer.pdf">Slides ↗</a> · <a href="https://github.com/MTrajK/engineering-notes/tree/main/Product-minded%20Engineer">Materials ↗</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>SDD Workshop</h3>
+<h3>Spec-Driven Development Workshop</h3>
 <p>A hands-on workshop on applying Spec-Driven Development with AI coding agents.</p>
 <p><p><a href="https://github.com/MTrajK/engineering-notes/blob/main/SDD%20Workshop/Resources/Trainers/Workshop%20Presentation%20-%20SDD%20with%20Windsurf%2BSpecKit.pptx">Slides ↗</a> · <a href="https://github.com/MTrajK/engineering-notes/tree/main/SDD%20Workshop">Materials ↗</a></p>
 </td>
