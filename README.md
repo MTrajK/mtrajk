@@ -1,4 +1,4 @@
-[![Meto Trajkovski — AI-focused. Technical leader. Product-minded software engineer.](/assets/profile_header.jpg)](https://www.mtrajk.dev/)
+[![Meto Trajkovski — AI-focused. Technical leader. Product-minded software engineer.](/assets/profile_header_linkedin.jpg)](https://www.mtrajk.dev/)
 
 <p align="center">
   <a href="https://www.mtrajk.dev/">Website</a> · <a href="https://www.linkedin.com/in/mtrajk/">LinkedIn</a>
